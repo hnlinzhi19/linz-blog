@@ -45,4 +45,6 @@ export default {
       },
     ]
   },
+  siteRoot: "https://hnlinzhi19.github.io",
+  basePath: "/linz-blog//dist/"
 }
